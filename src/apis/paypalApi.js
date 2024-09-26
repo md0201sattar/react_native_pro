@@ -4,9 +4,9 @@ let baseUrl = 'https://api-m.sandbox.paypal.com';
 const base64 = require('base-64');
 
 let clientId =
- 'ATcQqiimOVkNeNZRsfvbxNb38Bo3STvc3G_L5kGD3omZd8Gn108qDAMuQO_Eozn3EWnHvugYmwXR37SW';
+ env.CLIENT_ID;
 let secretKey =
- 'EGiK-2MXE13FORld5e4rNu-lQzqFjzm27bdL1wJ2mHpVxOKcTBitXnzljQJeLf7Y9TiTYlxJ9XJpmpFJ';
+ env.SECRET_KEY
 
 
 
