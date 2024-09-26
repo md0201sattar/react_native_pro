@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "681904798882",
+    "project_id": "surf-lokal-web-authentication",
+    "storage_bucket": "surf-lokal-web-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681904798882:android:ec6f08f80c47993b612bfb",
+        "android_client_info": {
+          "package_name": "surf.lokal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681904798882-q81uuu9kptuo5tcbv17fb8qnai7o2bi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "surf.lokal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "681904798882-r41s7mipcih0gdmsau2ds4c21pq4p476.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Hhq63SUm_TOObOH2cz-HDCUm_Eg6et8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681904798882-r41s7mipcih0gdmsau2ds4c21pq4p476.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681904798882-24aavuvkrsg3l1mqrkn49g4kh0s4pom5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "surf.lokal.crm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681904798882:android:61292ba4a66906cd612bfb",
+        "android_client_info": {
+          "package_name": "surf.lokal.crm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681904798882-lf1phjsp05obm5vb9oumd818991285a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "surf.lokal.crm",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "681904798882-r41s7mipcih0gdmsau2ds4c21pq4p476.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Hhq63SUm_TOObOH2cz-HDCUm_Eg6et8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681904798882-r41s7mipcih0gdmsau2ds4c21pq4p476.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681904798882-24aavuvkrsg3l1mqrkn49g4kh0s4pom5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "surf.lokal.crm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

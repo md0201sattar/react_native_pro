@@ -1,0 +1,14 @@
+export const PRIMARY = '#272C30';
+export const SECONDARY = '#FFE300';
+export const BACKGROUND_COLOR = '#EFEFEF';
+export const WHITE = '#C8C8C8';
+export const BLACK = '#3D4247';
+export const SUCCESS = '#16BD04';
+export const WARNING = '#ffae00';
+export const ALERT = '#cc4b37';
+export const GRAY = '#D9D8D8';
+export const TEXT_GRAY = '#A5A5A5';
+export const LIGHTGRAY = '#E2E2E2';
+export const GRAY_LIGHT = '#44494F';
+export const RED = '#FF0000';
+export const DARK_GRAY = '#707070';
